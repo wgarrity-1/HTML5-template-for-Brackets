@@ -1,9 +1,11 @@
-# HTML5-template-for-Brackets
-A HTML5 template for the text editor Brackets that gives you a solid starting point to work from.
+# Brackets-HTML5-Template
+This extension provides a basic HTML5 template for the text editor Brackets.
 Code will be inserted at the cursor position in the active document.
  
-The extention can be found in the Brackets menu under: "Edit > Better HTML5 Template"
+The extention can be found in the Brackets menu under: "Edit > Insert HTML Template"
 
-Author: William Larsson
+Author: William Garrity
 
-Date: 2019-09-22
+Date: 2020-11-08
+
+Forked from HTML 5 Template for Brackets: https://github.com/William-Larsson/HTML5-template-for-Brackets
